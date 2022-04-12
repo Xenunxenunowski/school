@@ -1,7 +1,8 @@
 # Liczby bliźniacze
 ###  Definicja
 Liczyby bliniacze to liczby pierwsze których różnica to 2
-### Pseudokod licznik = 1
+### Pseudokod 
+    licznik = 1
     wypisz 3 5
     x = 5
     dopóki licznik < n to:
