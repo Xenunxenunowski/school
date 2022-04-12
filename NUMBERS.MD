@@ -43,9 +43,8 @@ int main()
     }
     return 0;
 }
-
-*[Kodzik ](https://onlinegdb.com/86gfo9a72U)*
 ```
+*[Kodzik ](https://onlinegdb.com/86gfo9a72U)*
 ### Przykłady
 - 5 i 7
 - 11 i 13
