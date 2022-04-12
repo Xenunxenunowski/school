@@ -79,7 +79,7 @@ Liczby Mersenne'a to liczby o postaci M = 2<sup>n</sup> -1 gdzie n jest liczbą 
 
 ### Definicja 
 
-Liczba Goldbaha to każda liczba parzysta większa od 2 która jest dwóch liczb pierwszych
+Liczba Goldbaha to każda liczba parzysta większa od 2 które są liczbami pierwszymi
 
 ### Przykłady 
 - 6
