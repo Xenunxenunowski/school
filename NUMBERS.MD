@@ -10,7 +10,7 @@ Liczyby bliniacze to liczby pierwsze których różnica to 2
             licznik ++
         x = x+6
 ### Implementacja 
-```
+```cpp
 #include <iostream>
 
 using namespace std;
